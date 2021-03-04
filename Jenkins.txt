@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Repository의 CI/CD를 구성하기 위한 도구
 작성 언어 : 자바
 aa
+=======
+Repository의 CI/CD를 구성하기 위한 도구
+>>>>>>> parent of 0a4d5af (Update Jenkins.txt)
